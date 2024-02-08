@@ -1,6 +1,6 @@
 - 👨🏻‍💻 Heavily interested in fullstack 
 - 🏫 Studying at Barton College
-- Fayetteville, NC born & raised.
+- 📍 Fayetteville, NC born & raised.
 
 <!---
 itsericgchavezz/itsericgchavezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
